@@ -2,6 +2,7 @@
 """
 Created on Thu Apr  9 08:47:33 2026
 
-@author: Ernest
+@author: Ernest et Clément
 """
 
+#Premier init pour tester
